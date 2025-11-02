@@ -71,7 +71,7 @@ Begin<br>
       return true<br>
    return false<br>
 End<br>
-<hr>
+<hr> 
 <h2>Sample Input and Output:</h2>
 SEND = 9567<br>
 MORE = 1085<br>
